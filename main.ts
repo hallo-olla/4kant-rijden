@@ -1,0 +1,8 @@
+maqueen.motorRun(maqueen.Motors.All, maqueen.Dir.CW, 49)
+maqueen.servoRun(maqueen.Servos.S1, 90)
+maqueen.motorRun(maqueen.Motors.All, maqueen.Dir.CW, 49)
+maqueen.servoRun(maqueen.Servos.S1, 90)
+maqueen.motorRun(maqueen.Motors.All, maqueen.Dir.CW, 49)
+maqueen.servoRun(maqueen.Servos.S1, 90)
+maqueen.motorRun(maqueen.Motors.All, maqueen.Dir.CW, 49)
+maqueen.servoRun(maqueen.Servos.S1, 90)
